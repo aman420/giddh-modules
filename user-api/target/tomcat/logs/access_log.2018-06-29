@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:15:14:36 +0530] "GET /user-api/user HTTP/1.1" 200 256 http-bio-9292-exec-2 918
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:15:15:07 +0530] "GET /user-api/user/amangarg1oct1@gmail.com HTTP/1.1" 404 62 http-bio-9292-exec-3 247
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:15:15:42 +0530] "PUT /user-api/user/amangarg1oct1@gmail.com HTTP/1.1" 405 1045 http-bio-9292-exec-4 10
+0:0:0:0:0:0:0:1 - - [29/Jun/2018:15:18:24 +0530] "PUT /user-api/user HTTP/1.1" 404 62 http-bio-9292-exec-7 121

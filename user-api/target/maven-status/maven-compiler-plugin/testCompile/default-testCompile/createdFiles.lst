@@ -1,0 +1,3 @@
+com/walkover/user/api/model/maker/UserMaker.class
+com/walkover/user/api/test/integration/UserControllerIntTest.class
+com/walkover/user/api/test/service/UserServiceTest.class
